@@ -790,7 +790,7 @@ popular_posts: Popular Posts
 popular_posts_on: Popular Posts on
 #en: popular_polls: Popular Polls
 popular_polls: Popular Polls
-#en position: Position
+#en: position: Position
 position: Position
 #en: post: Post
 post: Post
@@ -1102,7 +1102,7 @@ to_start_adding_friends: To start adding friends, you can
 to_you: You
 #en: toggle: Toggle
 toggle: Toggle
-#en_ top_pros: Top Pros
+#en: top_pros: Top Pros
 top_pros: Top Pros
 #en: top_writers: Top Writers
 top_writers: Top Writers
@@ -1190,7 +1190,7 @@ view_profile: View profile
 voice: voice
 #en: voices: Voices
 voices: Voices
-#en_ vote: Vote
+#en: vote: Vote
 vote: Vote
 #en: vote_now: Vote now!
 vote_now: Vote now!

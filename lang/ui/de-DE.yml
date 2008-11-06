@@ -268,6 +268,14 @@ date_created: Erstellungsdatum
 date_published: "Veröffentlichungsdatum"
 #en: days_ago: days ago
 days_ago: Tage zuvor
+#en: deactivate_completed: Thanks. Your account has been deactivated and you have been logged out.
+deactivate_completed: Danke. Dein Konto wurde deaktiviert und du wurdest ausgeloggt.
+#en: deactivate_confirmation: Are you sure you want to deactivate your account?
+deactivate_confirmation: Bist du dir sicher, dein Konto zu deaktivieren?
+#en: deactivate_link: Click here to deactivate your account
+deactivate_link: Klick hier, um dein Konto zu deaktivieren.
+#en: deactivate_tip: Deactivating your account will remove your profile from the site. 
+deactivate_tip: Das Deaktivieren deines Kontos wird dein Profil ebenfalls löschen.
 #en: delete: Delete
 delete: Löschen
 #en: delete_selected: Delete selected
@@ -418,8 +426,8 @@ find_experts: Finde Experten
 find_out_where_to_be_and_when_to_be_there: Finde raus, wann du wo sein musst.
 #en: for_detailed_contest_rules: "For detailed contest rules,"
 for_detailed_contest_rules: "Für detailierte Wettbewerbsregeln,"
-#en: for_more_informationon_on_tags_check_out_the: For more information on Tags check out the
-for_more_informationon_on_tags_check_out_the: Für mehr Informationen über Tags check die
+#en: for_more_information_on_tags_check_out_the: For more information on Tags check out the
+for_more_information_on_tags_check_out_the: Für mehr Informationen über Tags check die
 #en: forgot_your_password: Forgot your password?
 forgot_your_password: Passwort vergessen?
 #en: forgot_your_username: Forgot your username?
@@ -486,6 +494,8 @@ help: Hilfe
 home: Home
 #en: homepage_banner_msg: CommunityEngine is the best way to go from zero to hero in no time
 homepage_banner_msg: Diese Community ist der beste Weg, um in Null-Komma-Nichts zum Held zu werden
+#en: homepage_banner_download_msg: Download it now and get started
+homepage_banner_download_msg: Lade es runter und fang an
 #en: homepage_banner_signup_prompt: See how it works
 homepage_banner_signup_prompt: Und so geht es
 #en: homepage_features: Homepage Features
@@ -614,6 +624,8 @@ message: Nachricht
 messages_deleted: Nachricht gelöscht
 #en: messages_sent: Messages sent!
 messages_sent: Nachricht abgeschickt
+#en: metro_area: Metro Area
+metro_area: Metro Area
 #en: metro_areas: Metro Areas
 metro_areas: Metro Areas
 #en: metro_area_was_successfully_created: MetroArea was successfully created.
@@ -676,8 +688,8 @@ new_invitation_from: Neue Einladung von
 new_metro_area: Neue Metro Area
 #en: new_photo: New photo.
 new_photo: Neues Foto
-#en: new_photos_&raquo;_multiple_uploader: "New Photos &raquo; Multiple Uploader"
-new_photos_raquo_multiple_uploader: "Neue Fotos &raquo; Multiple Uploader"
+#en: new_photos_multiple_uploader: "New Photos &raquo; Multiple Uploader"
+new_photos_multiple_uploader: "Neue Fotos &raquo; Multiple Uploader"
 #en: new_post: New post
 new_post: Neuer Beitrag
 #en: new_post_for_category: New {category}
@@ -714,8 +726,8 @@ notify_of_comments: Benachrichtigung bei Kommentaren
 notify_of_friend_requests: Benachrichtigung bei Freundschaftsanfragen
 #en: offering_was_successfully_created: Offering was successfully created.
 offering_was_successfully_created: Angebot wurde erfolgreich angelegt.
-#en: on: On
-on: Zu
+#en: on_commentable: 'On'
+on_commentable: 'Zu'
 #en: one_day_ago: one day ago
 one_day_ago: vor einem Tag
 #en: one_hour_ago: one hour ago
@@ -778,7 +790,7 @@ popular_posts: "beliebte Einträge"
 popular_posts_on: "beliebte Einträge auf"
 #en: popular_polls: Popular Polls
 popular_polls: beliebte Umfragen
-#en position: Position
+#en: position: Position
 position: Position
 #en: post: Post
 post: "Beitrag"
@@ -1090,7 +1102,7 @@ to_start_adding_friends: "Um Freunde hinzuzufügen, kannst du"
 to_you: Dich
 #en: toggle: Toggle
 toggle: "An-/Ausschalten:"
-#en_ top_pros: Top Pros
+#en: top_pros: Top Pros
 top_pros: Top Profis
 #en: top_writers: Top Writers
 top_writers: Top Verfasser
@@ -1178,7 +1190,7 @@ view_profile: Profil anzeigen
 voice: Stimme
 #en: voices: Voices
 voices: Stimme(n)
-#en_ vote: Vote
+#en: vote: Vote
 vote: deine Stimme
 #en: vote_now: Vote now!
 vote_now: Stimm jetzt ab!

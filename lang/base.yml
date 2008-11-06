@@ -83,7 +83,7 @@
 #en: categories: Categories
 #en: category: Category
 #en: category_was_successfully_created: Category was successfully created.
-#en: choises: Choices
+#en: choices: Choices
 #en: choose_a_photo_for_your_profile: "Choose a photo for your profile:"
 #en: choose_a_photo_to_upload: "Choose a photo to upload:"
 #en: choose_your_location: Choose your location
@@ -113,7 +113,7 @@
 #en: comments_rss: Comments RSS
 #en: community_tagline: CommunityEngine Rocks!
 #en: compose: Compose
-#en: compose_messages: Compose messages
+#en: compose_message: Compose message
 #en: confirm_password: Confirm Password
 #en: contest_was_successfully_created: Contest was successfully created.
 #en: contests: Contests
@@ -133,6 +133,10 @@
 #en: date_created: Date Created
 #en: date_published: Date Published
 #en: days_ago: days ago
+#en: deactivate_completed: Thanks. Your account has been deactivated and you have been logged out.
+#en: deactivate_confirmation: Are you sure you want to deactivate your account?
+#en: deactivate_link: Click here to deactivate your account
+#en: deactivate_tip: Deactivating your account will remove your profile from the site. 
 #en: delete: Delete
 #en: delete_selected: Delete selected
 #en: delete_this_event: Delete this event
@@ -208,7 +212,7 @@
 #en: find_experts: Find experts
 #en: find_out_where_to_be_and_when_to_be_there: Find out where to be, and when to be there.
 #en: for_detailed_contest_rules: "For detailed contest rules,"
-#en: for_more_informationon_on_tags_check_out_the: For more information on Tags check out the
+#en: for_more_information_on_tags_check_out_the: For more information on Tags check out the
 #en: forgot_your_password: Forgot your password?
 #en: forgot_your_username: Forgot your username?
 #en: forum: Forum
@@ -242,6 +246,7 @@
 #en: help: Help
 #en: home: Home
 #en: homepage_banner_msg: CommunityEngine is the best way to go from zero to hero in no time
+#en: homepage_banner_download_msg: Download it now and get started
 #en: homepage_banner_signup_prompt: See how it works
 #en: homepage_features: Homepage Features
 #en: hours_ago: hours ago
@@ -306,6 +311,7 @@
 #en: message: Message
 #en: messages_deleted: Messages deleted
 #en: messages_sent: Messages sent!
+#en: metro_area: Metro Area
 #en: metro_areas: Metro Areas
 #en: metro_area_was_successfully_created: MetroArea was successfully created.
 #en: minutes_ago: minutes ago
@@ -337,7 +343,7 @@
 #en: new_invitation_from: New Invitation from
 #en: new_metro_area: New Metro Area
 #en: new_photo: New photo.
-#en: new_photos_&raquo;_multiple_uploader: "New Photos &raquo; Multiple Uploader"
+#en: new_photos_multiple_uploader: "New Photos &raquo; Multiple Uploader"
 #en: new_post: New post
 #en: new_post_for_category: New {category}
 #en: new_post_text: New Post text
@@ -356,7 +362,7 @@
 #en: notify_of_comments: Notify of comments
 #en: notify_of_friend_requests: Notify of friend requests
 #en: offering_was_successfully_created: Offering was successfully created.
-#en: on: On
+#en: on_commentable: 'On'
 #en: one_day_ago: one day ago
 #en: one_hour_ago: one hour ago
 #en: one_minute_ago: one minute ago
@@ -388,7 +394,7 @@
 #en: popular_posts: Popular Posts
 #en: popular_posts_on: Popular Posts on
 #en: popular_polls: Popular Polls
-#en position: Position
+#en: position: Position
 #en: post: Post
 #en: posts: Posts
 #en: post_a_new_topic: Post a new topic
@@ -544,7 +550,7 @@
 #en: to_start_adding_friends: To start adding friends, you can
 #en: to_you: You
 #en: toggle: Toggle
-#en_ top_pros: Top Pros
+#en: top_pros: Top Pros
 #en: top_writers: Top Writers
 #en: topic: Topics
 #en: topics: Topics
@@ -588,7 +594,7 @@
 #en: view_profile: View profile
 #en: voice: voice
 #en: voices: Voices
-#en_ vote: Vote
+#en: vote: Vote
 #en: vote_now: Vote now!
 #en: votes: votes
 #en: waiting_for: Waiting for
